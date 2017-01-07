@@ -1,0 +1,12 @@
+.background {
+	background-image: url(../images/background2.jpg);
+	background-repeat: no-repeat;
+}
+
+.center {
+	text-align: center;
+}
+
+.font {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
