@@ -1,0 +1,46 @@
+<section>
+  <div class="parallax-window" data-speed="0.2" data-parallax="scroll" data-image-src="assets/1.jpg">
+     <span class="tx">Some Text</span>
+  </div>
+</section>
+<div class="content_block">
+  <div class="center">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+  </div>
+</div>
+
+<div class="content_block">
+  <div class="center">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+     <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+     <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+
+  </div>
+</div>
+<section>
+  <div class="parallax-window" data-speed="0.8" data-parallax="scroll" data-image-src="./assets/2.jpg">
+     <span style="position:absolute; top: 100px; left: 400px;"></span>
+  </div>
+</section>
+<div class="content_block">
+  <div class="center">
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+     <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+     <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+     <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit amet tempor lorem. Proin egestas sagittis orci sit amet ultricies. Etiam nec pharetra justo, scelerisque scelerisque elit. Nam pretium purus eu neque pretium accumsan. Proin eget pulvinar dui. Vestibulum nulla magna, auctor quis mollis eget, hendrerit nec enim. Nam commodo feugiat metus, ac auctor mi. Quisque sed ante eget arcu sollicitudin sodales nec nec nunc.
+    </p>
+  </div>
+</div>
