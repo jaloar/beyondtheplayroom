@@ -2,8 +2,6 @@ Rails.application.routes.draw do
   resources :contacts
 
   get 'contact' => 'contacts#new'
-  
-  get 'homepage' => 'main#index'
 
   get 'about_us' => 'main#about_us'
 
